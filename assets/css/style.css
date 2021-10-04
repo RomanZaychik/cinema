@@ -245,6 +245,7 @@ section {
 }
 .film-watch__info {
   margin: 8px;
+  white-space: nowrap;
   font-size: 1.2em;
 }
 .film-watch__badge {
